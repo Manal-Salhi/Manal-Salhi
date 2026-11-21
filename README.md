@@ -1,9 +1,9 @@
 # Bonjour, je suis Manal Salhi 👋
 
-**Business Analyst / Data Analyst** basée dans la région de Lille, disponible immédiatement (CDI ou CDD).
+**Data Analyst / Business Analyst** basée dans la région de Lille, disponible immédiatement (CDI ou CDD).
 
 ## 🎓 Formation
-- **Business Intelligence Analyst** – OpenClassrooms (diplôme en février 2027)
+- **Data Analyst / Business Intelligence Analyst** – OpenClassrooms (diplôme en février 2027)
 - **Master 1 MIASHS** (mathématiques et informatique appliquées aux sciences humaines et sociales), avec un stage de 6 mois à Paris
 
 ## 🛠️ Compétences
